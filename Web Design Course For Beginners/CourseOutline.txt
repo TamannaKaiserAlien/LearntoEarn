@@ -1,0 +1,15 @@
+Content of Day 1:
+Basic Concept of Website
+Difference Between Dynamic and Static Website
+What is HTML?
+What is HTML5?
+Basic Concept:
+   *HTTP: Hyper Text Transfer Protocol
+   *HTTPS: Hyper Text Transfer Protocol Secure
+   *W3C: World Wide Web Consortium
+   *URL: Uniform Resource Locator
+   *CMS: Content Management System
+   *SEO: Search Engine Optimization
+Important Web Browser
+HTML Web Browser
+Text Editor: Sublime Text (Install and uses)
