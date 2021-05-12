@@ -2,6 +2,7 @@ Content of Day 1:
 Basic Concept of Website
 Difference Between Dynamic and Static Website
 What is HTML?
+   *HTML: HyperText Markup Language
 What is HTML5?
 Basic Concept:
    *HTTP: Hyper Text Transfer Protocol
