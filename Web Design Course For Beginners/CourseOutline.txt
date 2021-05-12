@@ -11,6 +11,7 @@ Basic Concept:
    *URL: Uniform Resource Locator
    *CMS: Content Management System
    *SEO: Search Engine Optimization
-Important Web Browser
-HTML Web Browser
-Text Editor: Sublime Text (Install and uses)
+Web Browser
+Search Engine
+Text Editor: Sublime Text 3 (Install and uses)
+            Sublime Text 3 Download Link: https://www.sublimetext.com/3
